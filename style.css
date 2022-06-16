@@ -1,0 +1,29 @@
+/*Most of the formatting is inside the bootstrap/bootswatch theme that was downloaded, still some
+changes will be made to ameliorate the web page*/
+.nav-bar {
+    padding: 5px;
+
+}
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {margin: 15px;
+
+}
+
+#main_img { align-items: center;
+    box-align: top;
+    margin-left: 80px;
+
+}
